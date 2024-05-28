@@ -1,5 +1,7 @@
 ## Hi there 👋
+Hello everyone. My fullname is Trần Thị Hồng Như. I'm student and i come from Vietnam.
 
+I want to become a software engineering, Though my majoring in UNI is not relate to Software so much.
 <!--
 **hongnhu2005/hongnhu2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
